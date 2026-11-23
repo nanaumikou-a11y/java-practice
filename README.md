@@ -1,6 +1,4 @@
 # java-practice
-Javaの基礎学習やオブジェクト指向の練習コードまとめ
-# java-practice
 
 Progateを中心に学習しているJavaの基礎およびオブジェクト指向の練習コードまとめです。
 
